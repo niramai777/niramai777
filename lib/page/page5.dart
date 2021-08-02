@@ -38,7 +38,7 @@ class _page5State extends State<page5> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                        "ข้อมูลส่วนตัว",
+                        "ข้อมูลส่วนตัว;;;",
                         style: TextStyle(
                             color: Color.fromRGBO(2, 97, 26, 1),
                         fontSize: 18,
